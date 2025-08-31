@@ -1,0 +1,13 @@
+font-size=20
+auto-update= check
+
+theme=argonaut
+background-opacity=0.9
+background-blur=true
+cursor-style=block
+
+
+window-width=256
+window-height=60
+window-position-x=10
+window-position-y=10
